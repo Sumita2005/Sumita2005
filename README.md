@@ -31,4 +31,4 @@
 ## 🌐 Connect with Me
 
 - 📫 Email: sumitaturkane05@gmail.com
-- 💼 LinkedIn: ....
+- 💼 LinkedIn:www.linkedin.com/in/sumita-turakane
