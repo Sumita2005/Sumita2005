@@ -11,7 +11,7 @@
 
 - 💬 Languages: Python, JavaScript , C++ , C , JAVA , SQL  
 - 🌐 Web: HTML, CSS  
-- 🛠 Tools: Git, GitHub, VS Code  
+- 🛠 Tools: Git, GitHub, VS Code  , Android Studio , Linux 
 
 ---
 
@@ -22,15 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
----
-![Sumita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumita2005&show_icons=true)
-
-
-
-
-
----
 
 ## 🌐 Connect with Me
 
