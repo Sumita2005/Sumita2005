@@ -11,14 +11,14 @@
 
 - 💬 Languages: Python, JavaScript , C++ , C , JAVA , SQL  
 - 🌐 Web: HTML, CSS  
-- 🛠 Tools: Git, GitHub, VS Code  , Android Studio , Linux 
+- 🛠 Tools:  GitHub, VS Code  , Android Studio , Linux 
 
 ---
 
 ## 📌 Projects
-- 🔹 **Working projects** - 'Geneguard- Smart Genetic Risk Tracker'
-- 🔹 **Learning Projects** – Small programs and practice exercises  
-- 🔹 **Web Practice** – Simple websites and experiments  
+- 🔹  - 'Geneguard- Smart Genetic Risk Tracker'
+- 🔹  –  Employee Management System 
+- 🔹  – Simple websites and experiments  
 
 ---
 
@@ -27,3 +27,4 @@
 
 - 📫 Email: sumitaturkane05@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/sumita-turakane
+-    Phone : 9209309140
